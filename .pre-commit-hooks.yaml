@@ -1,0 +1,7 @@
+-   id: "stylua"
+    name: "StyLua"
+    description: "Format files with StyLua."
+    entry: "stylua"
+    language: "system"
+    types: ["file", "lua"]
+    args: []
